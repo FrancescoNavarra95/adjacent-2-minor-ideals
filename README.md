@@ -72,12 +72,6 @@ Open Macaulay2 and load the required package and script:
 ```m2
 loadPackage "Binomials";
 load "Adjacent.m2";
- 
-### 4. Test radicality
-
-Load a file containing a list of collections and run one of the test functions:
-
-```m2
 L = value get("weak_polyplets_n8.txt");
 time TestBinomialRadicality(L);
 ```
