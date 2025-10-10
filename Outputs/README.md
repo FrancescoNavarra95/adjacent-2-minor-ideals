@@ -1,4 +1,4 @@
-# Collections of Cells with Non-Radical Adjacent 2-Minors
+# Outputs folder 
 
 ## Contents
 
