@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software and datasets, please cite it as below."
+authors:
+  - family-names: "Navarra"
+    given-names: "Francesco"
+    affiliation: "Sabancı University"
+title: "Adjacent 2-Minor Ideals"
+version: "1.0"
+doi: "10.5281/zenodo.17312374"
+date-released: 2025-10-10
+url: "https://github.com/FrancescoNavarra95/adjacent-2-minor-ideals"
+license: "MIT"
