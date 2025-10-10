@@ -51,7 +51,7 @@ The functions print progress every 100 iterations and automatically save the lis
 ### **Outputs/**
 - Contains the Python script `Reppresentation_Polyo_from_List.py`,  
 which takes as input a file `input_collections.txt` and generates images of the corresponding collections.  
-- This directory also includes:
+This directory also includes:
 - The results of the radicality tests.
 - The folder `Output_pictures.zip` containing all non-radical collections.
 
@@ -61,7 +61,7 @@ which takes as input a file `input_collections.txt` and generates images of the 
 
 ### 1. Download the repository
 - On GitHub, click **Code → Download ZIP**.  
-- Extract the archive locally to obtain the directories `Sage/`, and `Outputs/`.
+- Extract the archive locally to obtain the directories `sage/`, and `Outputs/`.
 
 ### 2. Prepare the data files
 - Place the `.txt` files containing the collections (generated via SageMath) in the same directory as `Adjacent.m2`.
@@ -72,6 +72,6 @@ Open Macaulay2 and load the required package and script:
 ```m2
 loadPackage "Binomials";
 load "Adjacent.m2";
-L = value get("weak_polyplets_n8.txt");
+L = value get("weak_polyplets_n5.txt");
 time TestBinomialRadicality(L);
 ```
