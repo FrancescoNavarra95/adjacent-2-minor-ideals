@@ -1,8 +1,14 @@
-This folder contains:
+# Collections of Cells with Non-Radical Adjacent 2-Minors
 
-1. The text files of collection of cells whose adjacetn 2-minors are non-radical
-2. a folder .zip where we print all collection of cells whose adjacetn 2-minors are non-radical
-3. a python script "Rappresentation_polyo_from_list" to print collections of cells
-4. A folder "Computations.zip" where we have the uotput from Macaulay2 test.
+## Contents
 
+1. **Text files** — contain the collections of cells whose adjacent 2-minors are non-radical.  
+2. **`Output_pictures.zip`** — compressed folder including graphical representations of all collections of cells whose adjacent 2-minors are non-radical.  
+3. **Python script** `Rappresentation_polyomino_from_list.py` — used to visualize the collections of cells.  
+4. **`Computations_M2.zip`** — compressed folder containing the outputs of the *Macaulay2* computations.
 
+---
+
+### Important
+From the collections of cells in `Output_pictures.zip`, we extracted all **minimal non-radical collections** up to rank 8.  
+These specific examples are described and analyzed in the accompanying article.
