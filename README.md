@@ -57,6 +57,8 @@ This directory also includes:
 - The results of the radicality tests.
 - The folder `Output_pictures.zip` containing all non-radical collections.
 
+### **Folder `Example_minimal_prime_convex.zip`**
+- This folder contains several examples of admissible sets yielding the minimal prime ideals of convex collections of cells that do not contain either a square tetromino or an $X$-pentomino.
 ---
 
 ## How to Use
