@@ -59,6 +59,9 @@ This directory also includes:
 
 ### **Folder `Example_minimal_prime_convex.zip`**
 - This folder contains several examples of admissible sets yielding the minimal prime ideals of convex collections of cells that do not contain either a square tetromino or an $X$-pentomino.
+
+### **Folder `Examples_CaseIII.zip`**
+- This folder contains several examples of admissible sets yielding the minimal prime ideals of collections of cells discussed in CaseIII of Theorem 3.5 of the related paper.
 ---
 
 ## How to Use
